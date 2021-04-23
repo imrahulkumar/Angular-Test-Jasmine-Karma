@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "AngularTestJasmineWithKarma"
+  "defaultProject": "AngularTestJasmineWithKarma",
+  "cli": {
+    "analytics": false
+  }
 }
